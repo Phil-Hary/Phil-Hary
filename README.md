@@ -5,7 +5,6 @@
 Hi, I'm Philip Harrison A, a passionate Fullstack developer with a keen interest in solving problems with programming. I love building applications and exploring new technologies.
 
 - 🔭 I’m currently working on a next gen ticketing application
-- 🌱 I’m currently learning the crux of software development
 - 💬 Ask me about Design patterns, SOLID, Javascript and Python
 - 📫 How to reach me: harrisonharry01@gmail.com
 
