@@ -10,8 +10,8 @@ Hi, I'm Philip Harrison A, a passionate Fullstack developer with a keen interest
 
 ## My Skills
 
-- **Programming Languages:** Python, Javascript
-- **Web Development:** ReactJs Django
+- **Programming Languages:** Python, Javascript. Java
+- **Web Development:** ReactJs, Django. NodeJs, Express, Redux
 - **Databases:** SQL
 
 ## Featured Projects
